@@ -1,0 +1,9 @@
+﻿  test.c
+D:\C_learning\code\test_3_23\test\test\test.c(48,9): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 3 拥有了类型“int”
+D:\C_learning\code\test_3_23\test\test\test.c(48,9): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+D:\C_learning\code\test_3_23\test\test\test.c(48,9): message : 占位符和其参数预计 4 可变参数，但提供的却是 3 参数
+D:\C_learning\code\test_3_23\test\test\test.c(48,9): message : 缺失的可变参数 4 为格式字符串“%d”所需
+D:\C_learning\code\test_3_23\test\test\test.c(63,9): warning C4477: “printf”: 格式字符串“%f”需要类型“double”的参数，但可变参数 5 拥有了类型“int”
+D:\C_learning\code\test_3_23\test\test\test.c(63,76): warning C4474: printf: 格式字符串中传递的参数太多
+D:\C_learning\code\test_3_23\test\test\test.c(63,76): message : 占位符和其参数预计 5 可变参数，但提供的却是 6 参数
+  test.vcxproj -> D:\C_learning\code\test_3_23\test\Debug\test.exe
